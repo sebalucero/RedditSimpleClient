@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Reddit Simple Client</string>
+    <string name="submitted">enviado hace</string>
+    <string name="hours">horas</string>
+    <string name="hour">hora</string>
+    <string name="days">dias</string>
+    <string name="day">dia</string>
+    <string name="by">por</string>
+    <string name="comments">comentarios</string>
+    <string name="image_saved">Imagen guardada desde Reddit</string>
+    <string name="image_saved_success">Se ha guardado la imagen en la galeria!.</string>
+    <string name="dialog_instruction">Presiona la imagen para guardar, atras para cerrar.</string>
+</resources>
